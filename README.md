@@ -3,14 +3,16 @@
 Este repositório documenta minha evolução contínua em Quality Assurance, reunindo estudos teóricos, práticas, projetos, exercícios, experimentos e evidências do conhecimento adquirido ao longo da jornada.
 
 ## 🎯 Objetivo
-
 Consolidar conhecimentos em testes manuais, testes automatizados, APIs, qualidade de software, CI/CD e práticas modernas de Engenharia de Qualidade, acompanhando minha evolução contínua como profissional de QA.
 
----
+
 
 # 📍Learning Progress
 
-███░░░░░░░░░░░ 25%
+█░░░░░░░░░ 10%
+<br>
+<br>
+
 
 # 📍 Status Atual
 
@@ -34,33 +36,35 @@ Consolidar conhecimentos em testes manuais, testes automatizados, APIs, qualidad
 * 🟡 Em andamento
 * ⚪ Não iniciado
 
----
+<br>
+<br>
 
 # 🗺️ Roadmap
 
-## 1️⃣ QA Foundations
+### 1️⃣ QA Foundations
 
-## 2️⃣ Core QA Skills
+### 2️⃣ Core QA Skills
 
-## 3️⃣ Manual Testing
+### 3️⃣ Manual Testing
 
-## 4️⃣ API Testing
+### 4️⃣ API Testing
 
-## 5️⃣ Git & GitHub 
+### 5️⃣ Git & GitHub 
 
-## 6️⃣ Programming for Test Automation
+### 6️⃣ Programming for Test Automation
 
-## 7️⃣ Database
+### 7️⃣ Database
 
-## 8️⃣ Test Automation 
+### 8️⃣ Test Automation 
 
-## 9️⃣ CI/CD & DevOps
+### 9️⃣ CI/CD & DevOps
 
-## 🔟 Specialized Testing
+### 🔟 Specialized Testing
 
-## 🌍 Inglês para QA
+### 🌍 Inglês para QA
 
----
+<br>
+<br>
 
 # 🏆 Certificações
 
@@ -116,8 +120,8 @@ Consolidar conhecimentos em testes manuais, testes automatizados, APIs, qualidad
 
 ## 👩‍💻 About Me
 
-Analista de QA com experiência em testes manuais e automatizados, testes de APIs REST utilizando Postman, automação com Selenium e Python, controle de versão com Git e atuação em ambientes ágeis. 
-Atualmente focada em aprofundar meus conhecimentos em Playwright, Cypress, CI/CD, pipelines de automação e práticas modernas de Engenharia de Qualidade, com foco na atuação em projetos internacionais. 
+Analista de QA com experiência em testes manuais e automatizados, testes de APIs REST utilizando Postman, automação com Selenium e Python, controle de versão com Git e atuação em ambientes ágeis. <br>
+Atualmente focada em aprofundar meus conhecimentos em Playwright, Cypress, CI/CD, pipelines de automação e práticas modernas de Engenharia de Qualidade, com foco na atuação em projetos internacionais. <br>
 Tenho também interesse em expandir minha visão sobre práticas DevOps e na automação de processos que contribuam para entregas mais rápidas, seguras e eficientes.
 
 
