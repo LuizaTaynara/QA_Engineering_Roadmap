@@ -9,7 +9,7 @@ Consolidar conhecimentos em testes manuais, testes automatizados, APIs, qualidad
 
 # 📍Learning Progress
 
-█░░░░░░░░░ 10%
+███░░░░░░░ 25%
 <br>
 <br>
 
@@ -19,12 +19,12 @@ Consolidar conhecimentos em testes manuais, testes automatizados, APIs, qualidad
 | Área                           | Status |
 | ------------------------------ | ------ |
 | QA Foundations                 |   ✅   |
-| Core QA Skills                 |   🟡   |
+| Core QA Skills                 |   ✅   |
+| Git & GitHub                   |   🟡   |
 | Manual Testing                 |   ⚪   |
 | API Testing                    |   ⚪   |
-| Git & GitHub                   |   ⚪   |
-| Programming for Test Automation|   ⚪   |
 | Database                       |   ⚪   |
+| Programming for Test automation|   ⚪   |
 | Test Automation                |   ⚪   |
 | CI/CD & DevOps                 |   ⚪   |
 | Specialized Testing            |   ⚪   |
@@ -45,15 +45,15 @@ Consolidar conhecimentos em testes manuais, testes automatizados, APIs, qualidad
 
 ### 2️⃣ Core QA Skills
 
-### 3️⃣ Manual Testing
+### 3️⃣ Git & GitHub 
 
-### 4️⃣ API Testing
+### 4️⃣ Manual Testing
 
-### 5️⃣ Git & GitHub 
+### 5️⃣ API Testing
 
-### 6️⃣ Programming for Test Automation
+### 6️⃣ Database
 
-### 7️⃣ Database
+### 7️⃣ Programming for Test Automation
 
 ### 8️⃣ Test Automation 
 
@@ -103,8 +103,8 @@ Consolidar conhecimentos em testes manuais, testes automatizados, APIs, qualidad
 
 ## Learning Goals
 * [ ] Consolidar SQL
+* [ ] Aprender Cypress 
 * [ ] Consolidar os conhecimentos de Playwright
-* [ ] Aprender Cypress
 * [ ] Automatizar APIs
 * [ ] Integrar GitHub Actions
 * [ ] Melhorar inglês técnico
