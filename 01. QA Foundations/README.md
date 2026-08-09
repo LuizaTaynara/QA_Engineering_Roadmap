@@ -7,8 +7,8 @@ Ao concluir este módulo, serei capaz de:
 - Diferenciar QA e QC.
 - Diferenciar Verification e Validation.
 - Compreender SDLC e STLC.
-- Identificar modelos de desenvolvimento.
-- Entender como o QA atua em equipes Ágeis.
+- Compreender os principais modelos de desenvolvimento.
+- Compreender como o QA atua em equipes ágeis.
 - Explicar os princípios fundamentais de testes.
 - Diferenciar níveis e tipos de testes.
 - Interpretar a Pirâmide de Testes.
