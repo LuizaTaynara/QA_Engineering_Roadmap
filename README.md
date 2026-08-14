@@ -9,7 +9,7 @@ Consolidar conhecimentos em testes manuais, testes automatizados, APIs, qualidad
 
 # 📍Learning Progress
 
-███░░░░░░░ 25%
+███░░░░░░░ 30%
 <br>
 <br>
 
@@ -20,8 +20,8 @@ Consolidar conhecimentos em testes manuais, testes automatizados, APIs, qualidad
 | ------------------------------ | ------ |
 | QA Foundations                 |   ✅   |
 | Core QA Skills                 |   ✅   |
-| Git & GitHub                   |   🟡   |
-| Manual Testing                 |   ⚪   |
+| Git & GitHub                   |   ✅   |
+| Manual Testing                 |   🟡   |
 | API Testing                    |   ⚪   |
 | Database                       |   ⚪   |
 | Programming for Test automation|   ⚪   |
@@ -72,6 +72,7 @@ Consolidar conhecimentos em testes manuais, testes automatizados, APIs, qualidad
 - [x] Bootcamp QA Analyst - TripleTen Brasil
 - [x] Lógica de Programação com JS - DIO
 - [X] Agile Project Management - Google (Coursera)
+- [X] Git Essential Training - LinkedIn Learning
 
 ## Em andamento
 - [ ] Formação Python Fundamentals - DIO
