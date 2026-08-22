@@ -1,7 +1,6 @@
 # 📚 3. Git & GitHub
 Este módulo apresenta os principais conceitos e recursos utilizados para trabalhar com controle de versão e colaboração por meio do Git e GitHub. O conteúdo aborda repositórios locais e remotos, branches, merge, Pull Requests, Issues e GitHub Actions, além de apresentar um fluxo básico de trabalho aplicado ao contexto de QA.
 
-
 ## 🎯 Learning Outcomes
 Ao concluir este módulo, serei capaz de:
 
