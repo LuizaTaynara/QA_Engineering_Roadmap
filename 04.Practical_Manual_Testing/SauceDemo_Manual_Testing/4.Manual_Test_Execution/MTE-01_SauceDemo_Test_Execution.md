@@ -102,7 +102,7 @@ Cada Test Case será classificado utilizando um dos seguintes status:
 ## Bug Reports
 Todos os Casos de Teste que apresentaram um resultado **Fail**, o defeito foi documentado e reportado no **Jira** para ter um `Bug ID` associado.
 
-![BugReports](5. Bug Reports/SDMT.png)
+![BugReports](img/SDMT.png)
 
 ## Execution Summary
 
