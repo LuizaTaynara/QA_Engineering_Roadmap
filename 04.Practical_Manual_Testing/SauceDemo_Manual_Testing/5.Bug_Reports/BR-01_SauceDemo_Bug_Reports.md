@@ -41,7 +41,7 @@ O produto é apresentado com o nome **"Test.allTheThings() T-Shirt (Red)"**
 `TC-INV-002 — Visualização do nome dos produtos`
 
 ### Evidence
-- ![BUG-001](img/BUG-001.png)
+![BUG-001](../../../img/BUG-001.png)
 
 ### Jira 
 **Issue:** [BUG-1](https://taynaraluiza.atlassian.net/browse/BUG-1)
@@ -89,7 +89,7 @@ A descrição apresentada para o produto Sauce Labs Backpack contém erros. A ap
 `TC-INV-003 — Visualização da descrição dos produtos`
 
 ### Evidence
-- ![BUG-002](img/BUG-002.png)
+![BUG-002](../../../img/BUG-002.png)
 
 ### Jira 
 **Issue:** [BUG-2](https://taynaraluiza.atlassian.net/browse/BUG-2)
