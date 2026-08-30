@@ -5,13 +5,15 @@ Este repositório documenta minha evolução contínua em Quality Assurance, reu
 # 🎯 Objetivo
 Consolidar conhecimentos em testes manuais, testes automatizados, APIs, qualidade de software, CI/CD e práticas modernas de Engenharia de Qualidade, acompanhando minha evolução contínua como profissional de QA.
 
-<br>
 
 # 📍Learning Progress
 
-███░░░░░░░ 30%
+<br>
+
+████░░░░░░ 40%
 <br>
 <br>
+
 
 
 # 📍 Status Atual
@@ -21,8 +23,8 @@ Consolidar conhecimentos em testes manuais, testes automatizados, APIs, qualidad
 | QA Foundations                 |   ✅   |
 | Core QA Skills                 |   ✅   |
 | Git & GitHub                   |   ✅   |
-| Manual Testing                 |   🟡   |
-| API Testing                    |   ⚪   |
+| Manual Testing                 |   ✅   |
+| API Testing                    |   🟡   |
 | Database                       |   ⚪   |
 | Programming for Test automation|   ⚪   |
 | Test Automation                |   ⚪   |
@@ -37,7 +39,7 @@ Consolidar conhecimentos em testes manuais, testes automatizados, APIs, qualidad
 * ⚪ Não iniciado
 
 <br>
-<br>
+
 
 # 🗺️ Roadmap
 
@@ -75,9 +77,10 @@ Consolidar conhecimentos em testes manuais, testes automatizados, APIs, qualidad
 - [X] Git Essential Training - LinkedIn Learning
 
 ## Em andamento
+- [ ] Formação Quality Assurance (QA) Experience - DIO
+- [ ] Formação Automação de Testes com Cypress - DIO
 - [ ] Formação Python Fundamentals - DIO
 - [ ] Formação SQL Database Specialist - DIO
-- [ ] Formação Quality Assurance (QA) Experience - DIO
 - [ ] DIO English4Tech
 
 ## Em Planejamento 
@@ -103,8 +106,8 @@ Consolidar conhecimentos em testes manuais, testes automatizados, APIs, qualidad
 # 📈 Próximos Passos
 
 ## Learning Goals
+* [ ] Aprender Cypress
 * [ ] Consolidar SQL
-* [ ] Aprender Cypress 
 * [ ] Consolidar os conhecimentos de Playwright
 * [ ] Automatizar APIs
 * [ ] Integrar GitHub Actions
